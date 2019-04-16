@@ -1,28 +1,39 @@
-[center][eclogo]
+[center][eclogo][/center]
+[center]================[/center]
+[center][b]SCG: Expedition Dvision - SEV Torch & SEV Charon[/b][/center]
+[center][small]Expeditionary Observatory: Jupiter-Sun L2 Lagrange point[/center]
+[center][small][date]:[time][/small][/center]
+[center]====================[/center]
+[center][large]Expeditionary Exoplanet Report[/large][/center]
+System: [small][field][/small]
+Sector: [small][field][/small]
+Name: [small][field][/small]
 
-[large][b]SEV Torch
-
-Exoplanet Report: [field]
-[/b][/large][/center]
+General Report:
+[small][field][/small]
 [hr]
-[small][i]The following is to be filled out by members of a Expedition team after an Expedition to an uncharted Exoplanet.[/i][/small]
+[center][small][i]SCG Field Operations Suggests: Upon the formal planning of any mission and the final decision/choice of away-site or destination, the highest ranking or team-lead for the specified expedition is to either assign or handle an Expedition Report for use in future evaluation of this sector. The personnel assigned to handling this paperwork/document should employ the assistance of their fellow Explorers or personnel aboard the designated away-vessel to collect all necessary information which is provided bellow. While this document and the completion of is not required by regulations aboard any Expeitionary Corps vessel, the submission of such is always appreciated.[/i][/small][/center]
+[center]====*====[/center]
+[small][b]Pathfinder:[/b][/small] [small][field][/small]
 
-[u]Location:[/u] [field]
-[u]Date:[/u] [date]
-[cell][u]Personnel Involved:[/u] [field]
+[small][b]Personnel Roster[/b]
+[small]Rank-/-Name-/-Position
+[list][*][small][field][/small][*][small][field][/small][*][small][field][/small][*][small][field][/small][*][small][field][/small][*][small][field][/small][*][small][field][/small][*][small][field][/small][*][small][field][/small][*][small][field][/small][/list]
 
-[u]Atmospheric Information:[/u] [field]
-[u]Terrain Information:[/u] [field]
-[u]Habitable:[/u] [field]
+Atmospheric Information: [small][field][/small]
+Terrain Information: [small][field][/small]
+Habitable: [small][field][/small]
 
-[u]Existence of Fauna[/u] [field]
-[u]Existence of Flora[/u] [field]
+Existence of Fauna: [small][field][/small]
+Existence of Flora: [small][field][/small]
 
-[u]Materials/Tools Used:[/u] [field]
-[u]Items Retrieved:[/u] [field]
+Materials/Tools Used: [small][field][/small]
+Items Retrieved: [small][field][/small]
 
-[u]Observations:[/u] [field]
-
-[u]Reporting Personnel Signature: [field][/u]
+[b]Observations:[/b]
+[small][field][/small]
 [hr]
-[i][small]On completion of this form and form approval, the Research Director should fax the form to both the corporate liason and the commanding officer and should keep a carbon copy on file.[/small][/i]
+[small][center]Completion of this report/ducoment should be finalized with the sending of said report to the Chief Science Officer or most-superior officer if a Chief Science Officer is not present. A copy/fax should be directed to the Bridge for their personnel to store securely in the event said information is required, the Corporate Representative due to their pending work and agreement(s) within the EXO subset division of Expeditionary Operations, and to the Captain/Executive Officer of your assigned vessel.[/center]
+[br]
+[b]Report Handler:[/b] [small][field][/small]
+[b]Chief Science Officer:[/b] [small][field][/small]
